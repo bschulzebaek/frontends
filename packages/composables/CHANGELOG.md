@@ -1,5 +1,16 @@
 # @shopware-pwa/composables-next
 
+## 1.0.0
+
+### Major Changes
+
+- [#452](https://github.com/shopware/frontends/pull/452) [`e2c225f1`](https://github.com/shopware/frontends/commit/e2c225f1d69a5d523f3c1e6c90449ee28f98b2f2) Thanks [@patzick](https://github.com/patzick)! - Created Nuxt layer for `composables` and `cms-base`. This way overriding any part of that is now possible.
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @shopware-pwa/helpers-next@0.5.2
+
 ## 0.14.1
 
 ### Patch Changes

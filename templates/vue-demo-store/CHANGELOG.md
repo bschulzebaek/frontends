@@ -1,5 +1,26 @@
 # vue-demo-store
 
+## 0.16.0
+
+### Minor Changes
+
+- [#463](https://github.com/shopware/frontends/pull/463) [`543a8e1f`](https://github.com/shopware/frontends/commit/543a8e1fb3b391a0238f329e0ead30b8322016ec) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Add api error resolver for:
+
+  - Login page
+  - Account registration
+  - Update product qty (cart)
+
+  Add `useApiErrorsResolver` composable
+
+### Patch Changes
+
+- Updated dependencies [[`543a8e1f`](https://github.com/shopware/frontends/commit/543a8e1fb3b391a0238f329e0ead30b8322016ec), [`e2c225f1`](https://github.com/shopware/frontends/commit/e2c225f1d69a5d523f3c1e6c90449ee28f98b2f2)]:
+  - @shopware-pwa/types@0.7.0
+  - @shopware-pwa/nuxt3-module@1.0.0
+  - @shopware-pwa/composables-next@1.0.0
+  - @shopware-pwa/cms-base@1.0.0
+  - @shopware-pwa/helpers-next@0.5.2
+
 ## 0.15.1
 
 ### Patch Changes

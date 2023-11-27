@@ -1,5 +1,11 @@
 # @shopware-pwa/types
 
+## 0.7.0
+
+### Minor Changes
+
+- [#463](https://github.com/shopware/frontends/pull/463) [`543a8e1f`](https://github.com/shopware/frontends/commit/543a8e1fb3b391a0238f329e0ead30b8322016ec) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Add Meta type for the global Error type
+
 ## 0.6.0
 
 ### Minor Changes

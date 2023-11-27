@@ -12,11 +12,9 @@ Documentation specific for this package: [helpers](https://frontends.shopware.co
 
 Full changelog for stable version is available [here](https://github.com/shopware/frontends/blob/main/packages/helpers/CHANGELOG.md)
 
-### Latest changes: 0.5.1
+### Latest changes: 0.5.2
 
 ### Patch Changes
 
-- [#460](https://github.com/shopware/frontends/pull/460) [`729d03a5`](https://github.com/shopware/frontends/commit/729d03a5d5555a67d420cdb0c89a0cb4ce907831) Thanks [@mkucmus](https://github.com/mkucmus)! - Proper visibility and css classes merging
-
-- Updated dependencies []:
-  - @shopware-pwa/types@0.6.0
+- Updated dependencies [[`543a8e1f`](https://github.com/shopware/frontends/commit/543a8e1fb3b391a0238f329e0ead30b8322016ec)]:
+  - @shopware-pwa/types@0.7.0

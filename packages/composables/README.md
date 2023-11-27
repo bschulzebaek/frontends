@@ -137,18 +137,13 @@ All composable functions are fully typed with TypeScript and they are registed g
 
 Full changelog for stable version is available [here](https://github.com/shopware/frontends/blob/main/packages/composables/CHANGELOG.md)
 
-### Latest changes: 0.14.1
+### Latest changes: 1.0.0
+
+### Major Changes
+
+- [#452](https://github.com/shopware/frontends/pull/452) [`e2c225f1`](https://github.com/shopware/frontends/commit/e2c225f1d69a5d523f3c1e6c90449ee28f98b2f2) Thanks [@patzick](https://github.com/patzick)! - Created Nuxt layer for `composables` and `cms-base`. This way overriding any part of that is now possible.
 
 ### Patch Changes
 
-- [#462](https://github.com/shopware/frontends/pull/462) [`c3aa09ee`](https://github.com/shopware/frontends/commit/c3aa09ee9e73c23b79bf9c1b3e5e63d7d39f1550) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
-
-  - Changed dependency _@vueuse/core_ from **^10.5.0** to **^10.6.1**
-
-- [#467](https://github.com/shopware/frontends/pull/467) [`0e031efe`](https://github.com/shopware/frontends/commit/0e031efe7a3c0249a5e883c85ec87542ab07a4c0) Thanks [@patzick](https://github.com/patzick)! - Dependency changes:
-
-  - Changed dependency _scule_ from **^1.0.0** to **^1.1.0**
-
-- Updated dependencies [[`729d03a5`](https://github.com/shopware/frontends/commit/729d03a5d5555a67d420cdb0c89a0cb4ce907831)]:
-  - @shopware-pwa/helpers-next@0.5.1
-  - @shopware-pwa/api-client@0.7.0
+- Updated dependencies []:
+  - @shopware-pwa/helpers-next@0.5.2
